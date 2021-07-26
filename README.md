@@ -5,3 +5,7 @@ $ wget https://raw.githubusercontent.com/rojenzaman/sqlite3-arm-aarch64/main/sql
 $ chmod 750 sqlite3
 $ ./sqlite3 --version
 ```
+
+## Magisk Module
+
+[github.com/rojenzaman/sqlite3-magisk-module](https://github.com/rojenzaman/sqlite3-magisk-module)
