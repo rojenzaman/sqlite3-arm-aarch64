@@ -1,4 +1,4 @@
-#### SQLite Precompiled Binary for Android arm64-v8a (ARM aarch64) 
+#### SQLite Precompiled Binary for Android armeabi-v7a (ARM aarch64) 
 
 ```
 $ wget https://raw.githubusercontent.com/rojenzaman/sqlite3-arm-aarch64/main/sqlite3
